@@ -1,6 +1,6 @@
 # Apprentissage statistique
 
-Travaux pratiques réalisés dans le cadre de mon M1 Mathématiques appliquées : fondements probabilistes de la classification et évaluation de modèles, en Python.
+Travaux pratiques réalisés dans le cadre de mon M2 Mathématiques appliquées : fondements probabilistes de la classification et évaluation de modèles, en Python.
 
 ## Contenu
 
